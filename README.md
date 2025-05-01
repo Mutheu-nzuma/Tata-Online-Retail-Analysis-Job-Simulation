@@ -45,7 +45,7 @@ An online retail store had hired me as a consultant to analyze their sales data 
 
 **Contents:**
 
-* `data/`: Contains the raw data file (online\_retail.csv).
+* `data/`: Contains the raw data file(https://cdn.theforage.com/vinternships/companyassets/ifobHAoMjQs9s6bKS/5XsFFJu2oCLdmYJW2/1654309626143/Online%20Retail%20Data%20Set.xlsx).
 * `powerbi/`: Includes the Power BI project file (`online_retail_analysis.pbix`) containing data cleaning steps and visualizations.
 * `visuals/`: Stores the exported visualizations for the CEO and CMO (e.g., `.png` files as listed above).
 * `reports/`: Contains the final report summarizing the key findings and insights (https://docs.google.com/document/d/1Fu8GNpxPysEyAlRmPopqUHOHMnw_yIL_UWLKOceXWdw/edit?usp=sharing).
