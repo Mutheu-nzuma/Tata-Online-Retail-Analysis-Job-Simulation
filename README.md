@@ -13,6 +13,8 @@ An online retail store had hired me as a consultant to analyze their sales data 
 1.  **What is the monthly trend of revenue for the year 2011?**
     * **Visual:** Line Chart showing monthly revenue for 2011 (visuals/ceo\_revenue\_trend\_2011.png).
     * **Insight Provided:** Identified the significant seasonal revenue surge in the later months of 2011.
+    * ![image](https://github.com/user-attachments/assets/8dbce3f1-91ee-4efc-8629-e6c6ffb682ec)
+
 
 2.  **Which regions have the greatest demand for their products?**
     * **Visual:** Symbol Map (Proportional Symbols) showing the total quantity of products sold by country (excluding the UK) (visuals/ceo\_global\_product\_demand.png).
