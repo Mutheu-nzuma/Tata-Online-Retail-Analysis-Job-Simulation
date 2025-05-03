@@ -54,6 +54,4 @@ An online retail store had hired me as a consultant to analyze their sales data 
 
 * Power BI
 
-**Contact:**
 
-* [Your Name/GitHub Profile]
