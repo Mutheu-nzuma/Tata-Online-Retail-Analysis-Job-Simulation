@@ -13,6 +13,8 @@ An online retail store had hired me as a consultant to analyze their sales data 
 1.  **What is the monthly trend of revenue for the year 2011?**
     * **Visual:** Line Chart showing monthly revenue for 2011 (visuals/ceo\_revenue\_trend\_2011.png).
     * **Insight Provided:** Identified the significant seasonal revenue surge in the later months of 2011.
+    * ![image](https://github.com/user-attachments/assets/287e0c62-778f-46ad-8689-128f8d7e241c)
+
     
 
 
