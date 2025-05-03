@@ -29,10 +29,15 @@ An online retail store had hired me as a consultant to analyze their sales data 
 1.  **Which are the top 10 countries (excluding the United Kingdom) that are generating the highest revenue and the corresponding quantity sold?**
     * **Visual:** Dual-Axis Bar Chart comparing revenue and quantity sold for the top 10 countries (excluding the UK) (visuals/cmo\_top\_10\_countries\_revenue\_quantity.png).
     * **Insight Provided:** Identified key international markets with high revenue and sales volume.
+    * 
+
 
 2.  **Who are the top 10 customers by revenue?**
     * **Visual:** Horizontal Bar Chart showing the top 10 customers ranked by their total revenue contribution (visuals/cmo\_top\_10\_customers\_by\_revenue.png).
-    * **Insight Provided:** Showed the most valuable customers and indicated a diversified revenue stream.
+    * **Insight Provided:** Showed the most valuable customers and indicated a diversified revenue
+    * ![image](https://github.com/user-attachments/assets/d25ecdca-9073-43b2-a062-86d4ad771360)
+
+    
 
 **Final Findings:**
 
@@ -53,7 +58,6 @@ An online retail store had hired me as a consultant to analyze their sales data 
 
 * `data/`: Contains the raw data file(https://cdn.theforage.com/vinternships/companyassets/ifobHAoMjQs9s6bKS/5XsFFJu2oCLdmYJW2/1654309626143/Online%20Retail%20Data%20Set.xlsx).
 * `powerbi/`: Includes the Power BI project file (`Tata visualisation.pbix`attached) containing data cleaning steps and visualizations.
-* `visuals/`: Stores the exported visualizations for the CEO and CMO (e.g., `.png` files as listed above).
 * `reports/`: Contains the final report summarizing the key findings and insights (https://docs.google.com/document/d/1Fu8GNpxPysEyAlRmPopqUHOHMnw_yIL_UWLKOceXWdw/edit?usp=sharing).
 
 **Tools Used:**
