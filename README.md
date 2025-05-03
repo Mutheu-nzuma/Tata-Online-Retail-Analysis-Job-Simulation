@@ -29,7 +29,8 @@ An online retail store had hired me as a consultant to analyze their sales data 
 1.  **Which are the top 10 countries (excluding the United Kingdom) that are generating the highest revenue and the corresponding quantity sold?**
     * **Visual:** Dual-Axis Bar Chart comparing revenue and quantity sold for the top 10 countries (excluding the UK) (visuals/cmo\_top\_10\_countries\_revenue\_quantity.png).
     * **Insight Provided:** Identified key international markets with high revenue and sales volume.
-    * ![image](https://github.com/user-attachments/assets/bced4cfc-6baa-404b-ba04-2951f7daea04)
+    *![image](https://github.com/user-attachments/assets/fbc5f161-d01a-4a17-b747-bbc93f2030dd)
+
 
 
 
